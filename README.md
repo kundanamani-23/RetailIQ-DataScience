@@ -75,9 +75,9 @@ Business Insights
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kundanamani-23/KLH-CSE-2026-27-2420030558-RetailIQ.git
+git clone https://github.com/kundanamani-23/RetailIQ-DataScience.git
 
-cd KLH-CSE-2026-27-2420030558-RetailIQ
+cd RetailIQ-DataScience
 ```
 
 ### 2. Install Required Libraries
@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn streamlit jupyter
 Place the required e-commerce dataset inside the project directory.
 
 ```text
-KLH-CSE-2026-27-2420030558-RetailIQ/
+RetailIQ-DataScience/
 │
 ├── data/
 │   └── retail_data.csv
