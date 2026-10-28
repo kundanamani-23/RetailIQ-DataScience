@@ -134,4 +134,4 @@ streamlit run dashboard/app.py
 The final RetailIQ system will provide an interactive platform for analyzing e-commerce sales and customer behavior. It will help users understand sales trends, identify high-performing products, analyze customer segments, and obtain useful business insights through visualizations and analytical results.
 
 ## Project Status
-**Currently Under Development**
+**Developed**
